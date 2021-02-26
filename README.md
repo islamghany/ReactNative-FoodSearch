@@ -1,2 +1,2 @@
 # ReactNative-FoodSearch
-food search RN with yelp api.
+food search RN with yelp api
